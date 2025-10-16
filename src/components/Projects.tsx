@@ -65,15 +65,6 @@ const certificatesData = [
     link: 'https://drive.google.com/file/d/1aJjT1nW7NrK2I_j30RMrvHc4fWTKL-B1/view' 
   },
   { 
-    id: 2, 
-    title: 'Database Programming with SQL', 
-    provider: 'Oracle', 
-    date: 'Juni 2024', 
-    image: '/ProgrammingSQL.png', 
-    credentialId: '',       
-    link: 'https://drive.google.com/file/d/1aJjT1nW7NrK2I_j30RMrvHc4fWTKL-B1/view' 
-  },
-  { 
     id: 3, 
     title: 'Java Fundamentals', 
     provider: 'Oracle', 
