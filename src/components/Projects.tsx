@@ -25,16 +25,16 @@ const projectsData = [
     githubLink: 'https://github.com/faniillahi24/artaden_si'
   },  
 {
-    id: 1,
+    id: 2,
     title: 'Portfolio Website',
     role: 'Full Stack Developer',
     description: 'Website ini untuk menampilkan informasi pribadi, pengalaman, keterampilan, dan proyek-proyek yang telah saya kerjakan sebagai seorang pengembang perangkat lunak.',
     tags: ['Next.js', 'React', 'Tailwind CSS'],
     image: '/Projek/portfolio.jpg',
-    githubLink: 'https://github.com/faniillahi24/artaden_si'
+    githubLink: 'https://github.com/faniillahi24/portfolio-fani-llahi'
   },
   {
-    id: 2,
+    id: 3,
     title: 'Hospital App',
     role: 'Fullstack Developer',
     description: 'Hospital App adalah aplikasi mobile Fullstack yang dirancang untuk menyederhanakan proses pendaftaran dan manajemen antrean pasien rumah sakit. Proyek ini menunjukkan kemampuan saya dalam membangun solusi cross-platform dan backend yang kuat..',
@@ -65,16 +65,16 @@ const certificatesData = [
     link: 'https://drive.google.com/file/d/1aJjT1nW7NrK2I_j30RMrvHc4fWTKL-B1/view' 
   },
   { 
-    id: 1, 
-    title: 'Java Programming', 
+    id: 2, 
+    title: 'Database Programming with SQL', 
     provider: 'Oracle', 
     date: 'Juni 2024', 
-    image: '/javaProgramming.png', 
+    image: '/public/ProgrammingSQL.png', 
     credentialId: '',       
     link: 'https://drive.google.com/file/d/1aJjT1nW7NrK2I_j30RMrvHc4fWTKL-B1/view' 
   },
   { 
-    id: 1, 
+    id: 3, 
     title: 'Java Fundamentals', 
     provider: 'Oracle', 
     date: 'April 2024', 
@@ -83,7 +83,7 @@ const certificatesData = [
     link: 'https://drive.google.com/file/d/1IBZmrqIZKRHo8Hf-7cesudKDapA5iGXW/view' 
   },
   { 
-    id: 1, 
+    id: 4, 
     title: 'Database Foundations', 
     provider: 'Oracle', 
     date: 'Juni 2024', 
@@ -92,16 +92,16 @@ const certificatesData = [
     link: 'https://drive.google.com/file/d/1YzDKiROz9isVDFkQB9ZMSq1BIGn29w1L/view' 
   },
    { 
-    id: 1, 
+    id: 5, 
     title: 'Java Fundamentals & Java Programming Talent Scouting Academy Digital Talent Scholarship 2024', 
     provider: 'Kementerian Komunikasi dan Informatika Republik Indonesia', 
     date: 'Februari 2024', 
-    image: '/Databasefoundation.png', 
+    image: '/fundamentalprogramming.jpeg', 
     credentialId: '2007342840-109/TSA/BLSDM.Kominfo/2024',       
     link: 'https://drive.google.com/file/d/1mF-FHcpoLJK0qbNyDGtCSMQOZ2sahiud/view' 
   },
   { 
-    id: 1, 
+    id: 6, 
     title: 'Belajar Back-End Pemula dengan JavaScript', 
     provider: 'Dicoding Indonesia', 
     date: 'Agustus 2025', 
@@ -110,51 +110,51 @@ const certificatesData = [
     link: 'https://www.dicoding.com/certificates/GRX5JG5OYX0M' 
   },
   { 
-    id: 2, 
+    id: 7, 
     title: 'Belajar Dasar Cloud dan Gen AI di AWS', 
     provider: 'Dicoding Indonesia', 
     date: 'Agustus 2025', 
-    image: '/aws.png',  // <--- TAMBAHKAN INI
-    credentialId: 'JMZVVMK2RZN9',       // <--- TAMBAHKAN INI
+    image: '/aws.png',  
+    credentialId: 'JMZVVMK2RZN9',      
     link: 'https://www.dicoding.com/certificates/JMZVVMK2RZN9' 
   },
   { 
-    id: 3, 
+    id: 8, 
     title: 'Belajar Dasar Pemrograman JavaScript', 
     provider: 'Dicoding Indonesia', 
     date: 'Agustus 2025', 
-    image: '/pemrograman-javascript.png',  // <--- TAMBAHKAN INI
-    credentialId: '98XWO63W9ZM3',        // <--- TAMBAHKAN INI
+    image: '/pemrograman-javascript.png',  
+    credentialId: '98XWO63W9ZM3',   
     link: 'https://www.dicoding.com/certificates/98XWO63W9ZM3' 
   },
   { 
-    id: 4, 
-    title: 'KOnsep Pemrograman Micro Skill', 
+    id: 9, 
+    title: 'Konsep Pemrograman Micro Skill', 
     provider: 'Digital Talent ScholarshipDigital', 
     date: 'Agustus 2025', 
-    image: '/konsep-pemrograman.png',  // <--- TAMBAHKAN INI
-    credentialId: '2299793850-8858/MS/BLSDM.Komdigi/2025',        // <--- TAMBAHKAN INI
+    image: '/konsep-pemrograman.png', 
+    credentialId: '2299793850-8858/MS/BLSDM.Komdigi/2025',       
     link: 'https://drive.google.com/file/d/1NO-qd-nHZ1J19Rg7DAiW9fJAVKI2M5Nm/view?usp=sharing' 
   },
   { 
-    id: 5, 
+    id: 10, 
     title: 'Ketua Pelaksana Pekan Kreativitas Teknologi Olahraga dan Seni (PKTOS) Semester Genap 2025', 
     provider: 'Unit Kegiatan Mahasiswa CyberTech Politeknik Negeri Padang', 
     date: 'April 2025', 
-    image: '/Ketua Pelaksana PKTOS.jpg',  // <--- TAMBAHKAN INI
-    credentialId: '67/S.002/UKM-CYBERTECH-PNP/IV/2025',        // <--- TAMBAHKAN INI
+    image: '/Ketua Pelaksana PKTOS.jpg', 
+    credentialId: '67/S.002/UKM-CYBERTECH-PNP/IV/2025',        
     link: 'https://drive.google.com/file/d/11WGUuPpAQECmFv8MGOWJJcqP63tH2pNX/view?usp=sharing' 
   },
    { 
-    id: 6, 
+    id: 11, 
     title: 'Campus Connector', 
     provider: 'SeeMeSOL', 
     date: 'Feb 2025', 
-    image: '/SERTIF PARTISIPASI CAMPUS CONNECTOR.jpg',  // <--- TAMBAHKAN INI      // <--- TAMBAHKAN INI
+    image: '/SERTIF PARTISIPASI CAMPUS CONNECTOR.jpg',  
     link: 'https://drive.google.com/file/d/1DzL2Zi4x_rXXn39M6Cg2gisvcGCfyBsr/view?usp=sharing' 
   },
     { 
-    id: 7, 
+    id: 12, 
     title: 'Koordinator Publikasi dan Dokumentasi LLT', 
     provider: 'Majelis Perwakilan Mahasiswa Politeknik Negeri Padang', 
     date: 'November 2024 2025', 
@@ -164,7 +164,7 @@ const certificatesData = [
   },
   
   
-  // Tambahkan sertifikat Anda dengan format yang sama
+  
 ];
 
 // --- TECH STACK DATA DENGAN ICON DARI LUCIDE-REACT ---
