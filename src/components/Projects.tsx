@@ -57,7 +57,7 @@ const projectsData = [
     role: 'Fullstack Developer',
     description: 'Aplikasi Data Kampus adalah aplikasi mobile berbasis Flutter yang digunakan untuk menambahkan dan mengelola data kampus secara digital. Pengguna dapat memasukkan informasi seperti nama, alamat, kategori, jurusan, dan koordinat lokasi kampus. Aplikasi ini dikembangkan secara penuh mulai dari desain antarmuka, logika aplikasi, hingga koneksi ke API/database.',
     tags: ['Flutter', 'Dart', 'REST API', 'MySQL'],
-    image: '/Projek/app_kampus.jpg',
+    image: '/Projek/kampus2.jpg',
     githubLink: 'https://github.com/faniillahi24/kampus'
   },
 ];
