@@ -80,7 +80,7 @@ const projectsData = [
 const certificatesData = [
   { 
     id: 1, 
-    title: 'Juara 3 UX & Aksesibilitas katefori Cipta Inovasi dibidang TIK', 
+    title: 'Juara 3 UX & Aksesibilitas kategori Cipta Inovasi dibidang TIK', 
     provider: 'Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) Ke-VII', 
     date: 'Oktober 2025', 
     image: '/juara3kmipn.jpg', 
