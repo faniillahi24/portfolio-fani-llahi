@@ -79,6 +79,15 @@ const projectsData = [
 //Sertifikat
 const certificatesData = [
   { 
+    id: 1, 
+    title: 'Juara 3 UX & Aksesibilitas katefori Cipta Inovasi dibidang TIK', 
+    provider: 'Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) Ke-VII', 
+    date: 'Oktober 2025', 
+    image: '/juara3kmipn.jpg', 
+    credentialId: '554/PL9/KM.01.02/2025',       
+    link: 'https://drive.google.com/file/d/181S3FCSWdv0KcGwJ0hzGRU9NFpQr75JL/view?usp=sharing' 
+  },
+  { 
     id: 2, 
     title: 'Database Programming with SQL', 
     provider: 'Oracle', 
