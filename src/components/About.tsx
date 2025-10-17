@@ -35,7 +35,7 @@ export default function About() {
     const ICON_SHADOW = 'shadow-indigo-500/50';
 
     return (
-        <section id="tentang" className="py-24 bg-zinc-950 text-white">
+        <section id="tentang" className="py-24 bg-gray-900 text-white">
             
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 
