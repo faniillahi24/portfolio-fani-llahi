@@ -56,7 +56,7 @@ const projectsData = [
 //Sertifikat
 const certificatesData = [
   { 
-    id: 1, 
+    id: 2, 
     title: 'Database Programming with SQL', 
     provider: 'Oracle', 
     date: 'Juni 2024', 
