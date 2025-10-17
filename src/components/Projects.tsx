@@ -60,6 +60,20 @@ const projectsData = [
     image: '/Projek/kampus2.jpg',
     githubLink: 'https://github.com/faniillahi24/kampus'
   },
+  {
+  "id": 6,
+  "title": "Sistem Informasi Kuesioner: Kepuasan Layanan (Website)",
+  "role": "Analisis Dokumentasi",
+  "description": "Sistem informasi berbasis website yang dirancang untuk mengukur tingkat kepuasan layanan di Politeknik Negeri Padang. Pengguna sistem terdiri dari berbagai responden (Mahasiswa, Dosen, Tendik, Mitra). Proyek ini mencakup analisis kebutuhan sistem (termasuk kuesioner dan indikator), perancangan alur fungsional, serta pembuatan dokumen mutu SIMNANTU (Sistem Informasi Penjaminan Mutu).",
+  "tags": [
+    "Web Development",
+    "Sistem Informasi",
+    "Analisis Sistem",
+    "Dokumentasi"
+  ],
+  "image": "/Projek/SI Kuesioner.jpg", 
+  "githubLink": "" // Ganti dengan link yang benar
+  }
 ];
 
 //Sertifikat
